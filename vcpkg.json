@@ -1,3 +1,6 @@
 {
-  "dependencies": ["libedit", "catch2"]
+  "dependencies": [
+    "libedit",
+    "catch2"
+  ]
 }
